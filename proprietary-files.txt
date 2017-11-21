@@ -1,0 +1,1 @@
+# All needed proprietary files defined in serranovexx-common tree
