@@ -1,5 +1,5 @@
 #Inherit from vendor
-$(call inherit-product-if-exists, vendor/samsung/serranove3g/serranovelte-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/serranove3g/serranove3g-vendor.mk)
 
 # Inherit from common
 $(call inherit-product, device/samsung/serranovexx-common/device-common.mk)

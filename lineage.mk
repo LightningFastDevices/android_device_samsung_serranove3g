@@ -22,7 +22,7 @@ $(call inherit-product, device/samsung/serranove3g/device.mk)
 PRODUCT_DEVICE := serranove3g
 PRODUCT_NAME := lineage_serranove3g
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-I9195I
+PRODUCT_MODEL := SM-I9192I
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_CHARACTERISTICS := phone
 
