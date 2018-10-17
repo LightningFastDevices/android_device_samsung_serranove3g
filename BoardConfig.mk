@@ -5,7 +5,7 @@
 TARGET_OTA_ASSERT_DEVICE := serranove3g
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_serranovelte_eur_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_serranove3g_eur_defconfig
 
 # Partition sizes
 BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 1568669696
